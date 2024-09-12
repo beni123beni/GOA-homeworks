@@ -12,3 +12,15 @@ print(name + " " + str(age)+ " " + str(height))
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
