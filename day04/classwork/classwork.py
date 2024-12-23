@@ -1,11 +1,11 @@
-name = beni
+# name = beni
 
-print = (name)
+# print = (name)
 
 # error (beni)
 
-age = 3 + 5
+# age = 3 + 5
 
-print = "age"
+# print = "age"
 
-#error (age)
+# error (age)
